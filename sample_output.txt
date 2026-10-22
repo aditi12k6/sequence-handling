@@ -1,0 +1,20 @@
+DNA FASTA SEQUENCE REPORT
+==============================
+
+Record 1: sample_dna_sequence
+Sequence length: 24 bp
+A: 6
+T: 6
+G: 7
+C: 5
+GC content: 50.00%
+Ambiguous bases: 0
+
+Record 2: sample_dna_sequence_with_ambiguity
+Sequence length: 15 bp
+A: 3
+T: 3
+G: 4
+C: 3
+GC content: 46.67%
+Ambiguous bases: 4
